@@ -17,7 +17,7 @@ Banking data is cleaned and analyzed using SQL to understand customer transactio
 
 ## SQL Work
 
-Includes data cleaning, duplicate checks, joins, aggregations, CTEs, window functions, views, and customer segmentation using `NTILE()`. :chatgpt-content-reference{index="0"} :chatgpt-content-reference{index="1"}
+Includes data cleaning, duplicate checks, joins, aggregations, CTEs, window functions, views, and customer segmentation using `NTILE()`.
 
 ## Tools
 
